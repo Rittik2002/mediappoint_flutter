@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719846817426",
+    "project_id": "mediappoint-37b68",
+    "storage_bucket": "mediappoint-37b68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719846817426:android:8c7392557fca91f532b04b",
+        "android_client_info": {
+          "package_name": "com.example.mediappoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDdV5qI8ovSvqlbMzuO7BAygstBSJN30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
